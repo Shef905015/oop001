@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\oop001ab\oop001ab\bin\Debug\oop001ab.exe.config
+C:\Users\ucenik\source\repos\oop001ab\oop001ab\bin\Debug\oop001ab.exe
+C:\Users\ucenik\source\repos\oop001ab\oop001ab\bin\Debug\oop001ab.pdb
+C:\Users\ucenik\source\repos\oop001ab\oop001ab\obj\Debug\oop001ab.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\oop001ab\oop001ab\obj\Debug\oop001ab.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\oop001ab\oop001ab\obj\Debug\oop001ab.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\oop001ab\oop001ab\obj\Debug\oop001ab.exe
+C:\Users\ucenik\source\repos\oop001ab\oop001ab\obj\Debug\oop001ab.pdb
